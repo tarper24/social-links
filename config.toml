@@ -14,7 +14,7 @@ title = 'tarper24 Lynx'
   image = "images/avatar.png"
 
   links = [
-    { link = { href = "https://tarper24.com", text = "My website and blog" } },
+    { my-website = { href = "https://tarper24.com", text = "My website and blog" } },
     { mastodon = { href = "https://social.pawsitiv.space/@tarper24", text = "Pawsitiv Space (Mastodon)" } },
     { youtube = "https://yt.t24.co" },
     { twitch = "https://tv.t24.co" },
