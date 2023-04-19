@@ -18,6 +18,5 @@ title = 'tarper24 Lynx'
     { mastodon = { href = "https://social.pawsitiv.space/@tarper24", text = "Pawsitiv Space (Mastodon)" } },
     { youtube = "https://yt.t24.co" },
     { twitch = "https://tv.t24.co" },
-    { github = "https://gh.t24.co" },
-    { twitter = "https://twitter.t24.co" }
+    { github = "https://gh.t24.co" }
   ]
