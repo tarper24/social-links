@@ -19,6 +19,7 @@ title = 'tarper24 Lynx'
     { youtube = "https://yt.t24.co" },
     { twitch = "https://tv.t24.co" },
     { github = "https://gh.t24.co" },
-    { telegram = "https://t.me/tarper24" },
-    { discord = { href = "https://discord.com/app", text = "Discord: tarper24" } }
+    { discord = { href = "https://discord.com/app", text = "Discord: tarper24" } },
+    { steam = "https://steam.t24.co" },
+    { telegram = "https://t.me/tarper24" }
   ]
