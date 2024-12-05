@@ -21,5 +21,6 @@ title = 'tarper24 Lynx'
     { github = "https://gh.t24.co" },
     { discord = { href = "https://discord.com/app", text = "Discord: tarper24" } },
     { steam = "https://steam.t24.co" },
-    { telegram = "https://tg.t24.co" }
+    { telegram = "https://tg.t24.co" },
+    { signal = { href =  "https://signal.me/#eu/kCHB90xmhg7xp8b63G-zZPEPok85BqBdL5QJuH1pH3JxNzrgQJ1OxYSC8D_QyMTA", text = "Signal" } }
   ]
