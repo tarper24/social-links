@@ -18,9 +18,10 @@ title = 'tarper24 Lynx'
     { mastodon = { href = "https://social.pawsitiv.space/@tarper24", text = "Pawsitiv Space (Mastodon)" } },
     { youtube = "https://yt.t24.co" },
     { twitch = "https://tv.t24.co" },
+    { instagram = "https://ig.t24.co" },
     { github = "https://gh.t24.co" },
-    { discord = { href = "https://discord.com/app", text = "Discord: tarper24" } },
     { steam = "https://steam.t24.co" },
+    { discord = { href = "https://discord.com/app", text = "Discord: tarper24" } },
     { telegram = "https://tg.t24.co" },
-    { signal = { href =  "https://signal.me/#eu/kCHB90xmhg7xp8b63G-zZPEPok85BqBdL5QJuH1pH3JxNzrgQJ1OxYSC8D_QyMTA", text = "Signal" } }
+    { signal = { href = "https://signal.me/#eu/kCHB90xmhg7xp8b63G-zZPEPok85BqBdL5QJuH1pH3JxNzrgQJ1OxYSC8D_QyMTA", text = "Signal" } }
   ]
