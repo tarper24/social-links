@@ -1,27 +1,28 @@
 baseURL = 'https://t24.co/'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'tarper24 Lynx'
+enableEmoji = true
 
 [module]
 [[module.imports]]
-  path = 'github.com/tarper24/lynx'
+path = 'github.com/tarper24/lynx'
 
 [taxonomies]
 
-[author]
-  name = "tarper24"
-  headline = "I'm just a gaming furry techie floating through the Internet who loves all things cute and cuddly :3"
-  image = "images/avatar.png"
+[params.author]
+name = "tarper24"
+headline = "I'm just a gaming furry techie floating through the Internet who loves all things cute and cuddly :3"
+image = "images/avatar.png"
 
-  links = [
-    { my-website = { href = "https://tarper24.com", text = "Website/Blog" } },
-    { mastodon = { href = "https://social.pawsitiv.space/@tarper24", text = "Pawsitiv Space (Mastodon)" } },
-    { youtube = "https://yt.t24.co" },
-    { twitch = "https://tv.t24.co" },
-    { instagram = "https://ig.t24.co" },
-    { github = "https://gh.t24.co" },
-    { steam = "https://steam.t24.co" },
-    { discord = { href = "https://discord.com/app", text = "Discord: tarper24" } },
-    { telegram = "https://tg.t24.co" },
-    { signal = { href = "https://signal.me/#eu/kCHB90xmhg7xp8b63G-zZPEPok85BqBdL5QJuH1pH3JxNzrgQJ1OxYSC8D_QyMTA", text = "Signal" } }
-  ]
+links = [
+  { my-website = { href = "https://tarper24.com", text = "Website/Blog" } },
+  { mastodon = { href = "https://social.pawsitiv.space/@tarper24", text = "Pawsitiv Space (Mastodon)" } },
+  { youtube = "https://yt.t24.co" },
+  { twitch = "https://tv.t24.co" },
+  { instagram = "https://ig.t24.co" },
+  { github = "https://gh.t24.co" },
+  { steam = "https://steam.t24.co" },
+  { discord = "discord://discord.com/users/122607691578343424" },
+  { telegram = "https://tg.t24.co" },
+  { signal = "https://signal.me/#eu/kCHB90xmhg7xp8b63G-zZPEPok85BqBdL5QJuH1pH3JxNzrgQJ1OxYSC8D_QyMTA" },
+]
