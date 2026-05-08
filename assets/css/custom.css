@@ -1,3 +1,11 @@
+.link-tailtag {
+  background: linear-gradient(135deg, #0f4ca5 0%, #4f74ff 100%);
+  border: 2px solid #fff;
+  box-shadow: 0 0 0.6rem rgba(79, 116, 255, 0.8);
+  color: #fff;
+  font-weight: 700;
+}
+
 .link-my-website {
   background: #00a3e0;
   color: #242424;

@@ -15,6 +15,7 @@ headline = "I'm just a gaming furry techie floating through the Internet who lov
 image = "images/avatar.png"
 
 links = [
+  { tailtag = { href = "https://www.playtailtag.com/", text = "Catch me in TailTag at FWA!" } },
   { my-website = { href = "https://tarper24.com", text = "Website/Blog" } },
   { mastodon = { href = "https://social.pawsitiv.space/@tarper24", text = "Pawsitiv Space (Mastodon)" } },
   { youtube = "https://yt.t24.co" },
